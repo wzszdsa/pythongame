@@ -1,0 +1,16 @@
+GAME_SIZE = (1280, 600)
+LEFT_TOP = (200, 65)
+GRID_SIZE = (76, 96)
+GRID_COUNT = (9, 5)
+PATH_BACK = '../img/other/back.png'
+PATH_LOSE = '../img/other/lose.png'
+PATH_LOSE_SOUND = '../sound/losemusic.wav'
+SUNFLOWER_ID = 3
+PEASHOOTER_ID = 4
+ZOMBIE_ID = 1
+SUNLIGHT_ID = 2
+ZOMBIE_BORN_X = 14
+ZOMBIE_BORN_CD = 20
+SERVER_IP = '8.137.107.12'
+SERVER_PORT = 8888
+MAX_BYTES = 10240
